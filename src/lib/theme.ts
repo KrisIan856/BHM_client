@@ -1,0 +1,15 @@
+export const C = {
+  bg: "#F5F2EE",
+  card: "#FFFFFF",
+  primary: "#8B7FC7",
+  primaryLt: "#EAE7F5",
+  sage: "#7E9478",
+  sageLt: "#E4EDE3",
+  text: "#2C2825",
+  muted: "#8A847E",
+  border: "#E2DDD9",
+  danger: "#B03030",
+  dangerLt: "#FDECEA",
+  warn: "#A07A28",
+  warnLt: "#FEF3E2",
+}
